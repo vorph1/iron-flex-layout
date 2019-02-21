@@ -116,7 +116,6 @@ const template = html`
     </style>
   </template>
 </dom-module>
-/* Basic flexbox reverse styles */
 <dom-module id="iron-flex-reverse">
   <template>
     <style>
@@ -147,7 +146,6 @@ const template = html`
     </style>
   </template>
 </dom-module>
-/* Flexbox alignment */
 <dom-module id="iron-flex-alignment">
   <template>
     <style>
@@ -286,7 +284,6 @@ const template = html`
     </style>
   </template>
 </dom-module>
-/* Non-flexbox positioning helper styles */
 <dom-module id="iron-flex-factors">
   <template>
     <style>
